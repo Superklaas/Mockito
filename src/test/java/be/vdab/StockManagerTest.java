@@ -44,6 +44,7 @@ public class StockManagerTest {
 
     }
 
+    //
     @Test
     void createLocatorCode_BookInWebService() {
 
